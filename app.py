@@ -320,3 +320,5 @@ if __name__ == "__main__":
         run_worker_mode()
     else:
         gui_mode()
+
+# python -m PyInstaller --noconsole --onefile --collect-all spotdl --collect-all yt_dlp --collect-all pykakasi app.py
