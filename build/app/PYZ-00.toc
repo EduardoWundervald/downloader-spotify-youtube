@@ -1,5 +1,5 @@
 ('C:\\Users\\Eduardo '
- 'Wundervald\\Documents\\GitHub\\MeuDownloader\\build\\app\\PYZ-00.pyz',
+ 'Wundervald\\Documents\\GitHub\\downloader-spotify-youtube\\build\\app\\PYZ-00.pyz',
  [('PyInstaller',
    'C:\\Users\\Eduardo '
    'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PyInstaller\\__init__.py',
@@ -5562,6 +5562,7 @@
   ('tkinter.simpledialog',
    'C:\\Python313\\Lib\\tkinter\\simpledialog.py',
    'PYMODULE'),
+  ('tkinter.ttk', 'C:\\Python313\\Lib\\tkinter\\ttk.py', 'PYMODULE'),
   ('token', 'C:\\Python313\\Lib\\token.py', 'PYMODULE'),
   ('tokenize', 'C:\\Python313\\Lib\\tokenize.py', 'PYMODULE'),
   ('tomllib', 'C:\\Python313\\Lib\\tomllib\\__init__.py', 'PYMODULE'),
