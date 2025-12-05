@@ -257,7 +257,7 @@ def gui_mode():
     status_label.pack()
 
     ttk.Label(frame_central, text="Desenvolvido por Eduardo Wundervald", font=("Inter", 8), foreground="white").pack(pady=(30, 0))
-    ttk.Label(frame_central, text="v1.3.2 - Dark Edition", font=("Inter", 7), foreground="white").pack(pady=(0, 10))
+    ttk.Label(frame_central, text="v2.1.0 - Dark Edition", font=("Inter", 7), foreground="white").pack(pady=(0, 10))
 
     janela.mainloop()
 
