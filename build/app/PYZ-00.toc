@@ -1,6 +1,334 @@
 ('C:\\Users\\Eduardo '
  'Wundervald\\Documents\\GitHub\\downloader-spotify-youtube\\build\\app\\PYZ-00.pyz',
- [('PyInstaller',
+ [('PIL',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL.AvifImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\AvifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ExifTags',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\ExifTags.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.ImageCms',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\ImageCms.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\ImageDraw.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw2',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\ImageDraw2.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.ImageFont',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\ImageFont.py',
+   'PYMODULE'),
+  ('PIL.ImageGrab',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\ImageGrab.py',
+   'PYMODULE'),
+  ('PIL.ImageMath',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\ImageMath.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.ImagePath',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\ImagePath.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageText',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\ImageText.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.ImageWin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\ImageWin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.QoiImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\QoiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\_deprecate.py',
+   'PYMODULE'),
+  ('PIL._typing',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\_typing.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('PyInstaller',
    'C:\\Users\\Eduardo '
    'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\PyInstaller\\__init__.py',
    'PYMODULE'),
@@ -5556,6 +5884,7 @@
   ('tkinter.filedialog',
    'C:\\Python313\\Lib\\tkinter\\filedialog.py',
    'PYMODULE'),
+  ('tkinter.font', 'C:\\Python313\\Lib\\tkinter\\font.py', 'PYMODULE'),
   ('tkinter.messagebox',
    'C:\\Python313\\Lib\\tkinter\\messagebox.py',
    'PYMODULE'),
@@ -5570,6 +5899,126 @@
   ('tomllib._re', 'C:\\Python313\\Lib\\tomllib\\_re.py', 'PYMODULE'),
   ('tomllib._types', 'C:\\Python313\\Lib\\tomllib\\_types.py', 'PYMODULE'),
   ('tracemalloc', 'C:\\Python313\\Lib\\tracemalloc.py', 'PYMODULE'),
+  ('ttkbootstrap',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\ttkbootstrap\\__init__.py',
+   'PYMODULE'),
+  ('ttkbootstrap.colorutils',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\ttkbootstrap\\colorutils.py',
+   'PYMODULE'),
+  ('ttkbootstrap.constants',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\ttkbootstrap\\constants.py',
+   'PYMODULE'),
+  ('ttkbootstrap.dialogs',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\ttkbootstrap\\dialogs\\__init__.py',
+   'PYMODULE'),
+  ('ttkbootstrap.dialogs.base',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\ttkbootstrap\\dialogs\\base.py',
+   'PYMODULE'),
+  ('ttkbootstrap.dialogs.colorchooser',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\ttkbootstrap\\dialogs\\colorchooser.py',
+   'PYMODULE'),
+  ('ttkbootstrap.dialogs.colordropper',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\ttkbootstrap\\dialogs\\colordropper.py',
+   'PYMODULE'),
+  ('ttkbootstrap.dialogs.datepicker',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\ttkbootstrap\\dialogs\\datepicker.py',
+   'PYMODULE'),
+  ('ttkbootstrap.dialogs.fontdialog',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\ttkbootstrap\\dialogs\\fontdialog.py',
+   'PYMODULE'),
+  ('ttkbootstrap.dialogs.message',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\ttkbootstrap\\dialogs\\message.py',
+   'PYMODULE'),
+  ('ttkbootstrap.dialogs.query',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\ttkbootstrap\\dialogs\\query.py',
+   'PYMODULE'),
+  ('ttkbootstrap.icons',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\ttkbootstrap\\icons.py',
+   'PYMODULE'),
+  ('ttkbootstrap.localization',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\ttkbootstrap\\localization\\__init__.py',
+   'PYMODULE'),
+  ('ttkbootstrap.localization.msgcat',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\ttkbootstrap\\localization\\msgcat.py',
+   'PYMODULE'),
+  ('ttkbootstrap.localization.msgs',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\ttkbootstrap\\localization\\msgs.py',
+   'PYMODULE'),
+  ('ttkbootstrap.publisher',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\ttkbootstrap\\publisher.py',
+   'PYMODULE'),
+  ('ttkbootstrap.style',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\ttkbootstrap\\style.py',
+   'PYMODULE'),
+  ('ttkbootstrap.themes',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\ttkbootstrap\\themes\\__init__.py',
+   'PYMODULE'),
+  ('ttkbootstrap.themes.standard',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\ttkbootstrap\\themes\\standard.py',
+   'PYMODULE'),
+  ('ttkbootstrap.themes.user',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\ttkbootstrap\\themes\\user.py',
+   'PYMODULE'),
+  ('ttkbootstrap.utility',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\ttkbootstrap\\utility.py',
+   'PYMODULE'),
+  ('ttkbootstrap.validation',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\ttkbootstrap\\validation.py',
+   'PYMODULE'),
+  ('ttkbootstrap.widgets',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\ttkbootstrap\\widgets\\__init__.py',
+   'PYMODULE'),
+  ('ttkbootstrap.widgets.dateentry',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\ttkbootstrap\\widgets\\dateentry.py',
+   'PYMODULE'),
+  ('ttkbootstrap.widgets.floodgauge',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\ttkbootstrap\\widgets\\floodgauge.py',
+   'PYMODULE'),
+  ('ttkbootstrap.widgets.labeledscale',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\ttkbootstrap\\widgets\\labeledscale.py',
+   'PYMODULE'),
+  ('ttkbootstrap.widgets.meter',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\ttkbootstrap\\widgets\\meter.py',
+   'PYMODULE'),
+  ('ttkbootstrap.widgets.toast',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\ttkbootstrap\\widgets\\toast.py',
+   'PYMODULE'),
+  ('ttkbootstrap.widgets.tooltip',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\ttkbootstrap\\widgets\\tooltip.py',
+   'PYMODULE'),
+  ('ttkbootstrap.window',
+   'C:\\Users\\Eduardo '
+   'Wundervald\\AppData\\Roaming\\Python\\Python313\\site-packages\\ttkbootstrap\\window.py',
+   'PYMODULE'),
   ('tty', 'C:\\Python313\\Lib\\tty.py', 'PYMODULE'),
   ('typing', 'C:\\Python313\\Lib\\typing.py', 'PYMODULE'),
   ('typing_extensions',
